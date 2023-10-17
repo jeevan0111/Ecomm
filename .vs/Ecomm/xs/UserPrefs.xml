@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{686A7AFE-0DC3-4591-85FB-E1392DC9A01C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ecomm/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="Ecomm/Models/Category.cs" Line="8" Column="10" />
+      <File FileName="Ecomm/Controllers/CategoryController.cs" Line="30" Column="10" />
+      <File FileName="Ecomm/Models/Employee.cs" Line="7" Column="3" />
+      <File FileName="Ecomm/Controllers/EmployeeController.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ecomm" expanded="True">
+            <Node name="Ecomm" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ecomm PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
